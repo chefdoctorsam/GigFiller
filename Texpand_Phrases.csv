@@ -1,0 +1,103 @@
+Shortcut,Phrase,
+Head,"Hi %cust_a%greeting_a This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_b%greeting_b This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_c%greeting_c This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_d%greeting_d This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_e%greeting_e This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_f%greeting_f This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_g%greeting_g This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Head,"Hi %cust_h%greeting_h This is Sam, your %app %role. I'm on my way to %store now to shop for your order. I'll let you know when I begin.",
+Leave,You can follow my location in real time here: %location,
+Leave,"Hi %cust_a, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. 🚗",
+Leave,"Hi %cust_a, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 1st stop on my delivery route. 🚗",
+Leave,"Hi %cust_b, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 2nd stop on my delivery route. 🚗",
+Leave,"Hi %cust_c, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 3rd stop on my delivery route. 🚗",
+Leave,"Hi %cust_d, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 4th stop on my delivery route. 🚗",
+Leave,"Hi %cust_e, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 5th stop on my delivery route. 🚗",
+Leave,"Hi %cust_f, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 6th stop on my delivery route. 🚗",
+Leave,"Hi %cust_g, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 7th stop on my delivery route. 🚗",
+Leave,"Hi %cust_h, it's [hour/12]:[minute] [am/pm] and I'm leaving %store now with your order. I'll message you when I know my ETA and again when I have completed your delivery. You are the 8th stop on my delivery route. 🚗",
+Door,"Hi %cust_a, it's [hour/12]:[minute] [am/pm] and I just dropped off your %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_b, it's [hour/12]:[minute] [am/pm] and I just dropped off your %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_c, it's [hour/12]:[minute] [am/pm] and I just dropped off your %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_d, it's [hour/12]:[minute] [am/pm] and I just dropped off your %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_e, it's [hour/12]:[minute] [am/pm] and I just dropped off your  %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_f, it's [hour/12]:[minute] [am/pm] and I just dropped off your  %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_g, it's [hour/12]:[minute] [am/pm] and I just dropped off your  %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Door,"Hi %cust_h, it's [hour/12]:[minute] [am/pm] and I just dropped off your  %store order outside of your door, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_a, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_b, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_c, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_d, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_e, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_f, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_g, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Hand,"Hi %cust_h, it's [hour/12]:[minute] [am/pm] and I just handed you your %store order, as you requested. Thank you, and have a fantastic %time_day! 👋
+-Sam, your %app %role 🧔",
+Photos,%cust_a %store %app %role,
+Photos,%cust_b %store %app %role,
+Photos,%cust_c %store %app %role,
+Photos,%cust_d %store %app %role,
+Photos,%cust_e %store %app %role,
+Photos,%cust_f %store %app %role,
+Photos,%cust_g %store %app %role,
+Photos,%cust_h %store %role,
+Start,"Good %time_day, %cust_a! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_b! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_c! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_d! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_e! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_f! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_g! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Start,"Good %time_day, %cust_h! This is your %app %role Sam 🧔, it's [hour/12]:[minute] [am/pm], and I’m getting started on your %store list now. If there are any changes you'd like to make, please let me know and I’ll do my best to make it happen. If %store is sold out of an item you selected, I’ll find the best possible replacement and contact you for approval. Thanks, and I'm looking forward to shopping for you today! 😃",
+Checkout,"Hi %cust_a, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_b, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_c, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_d, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_e, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_f, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_g, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,"Hi %cust_h, I have finished shopping for your %store order and I'm heading for the checkout line now.",
+Checkout,I was able to find all of the items on your shopping list with no replacements necessary.,
+Checkout,"Replacements were necessary for # items on your shopping list, detailed in my messages above.",
+Checkout,"Refunds were necessary for # items on your shopping list, detailed in my messages above.",
+Checkout,"# replacements and # refunds were necessary for the items on your shopping list, detailed in my messages above.",
+wg,Wegmans,
+uau,Up&Up,
+mbd,Made by Design,
+mkp,Market Pantry,
+gng,Good & Gather,
+Halp,"Providing you with exemplary service is my #1 goal. After your order is completed, I would be very grateful if you would share your experience by rating and providing feedback on my performance - this lets me know what I'm doing well and where there are opportunities for me to improve. Thanks again!",
+Pickup,"Good %time_day, %cust_a, it's [hour/12]:[minute] [am/pm] and I'm arriving at %store to pick up your order for delivery. I'll message you again when I'm headed your way!
+-Sam, your %app %role 🧔",
+Pickup,"Good %time_day, %cust_b, it's [hour/12]:[minute] [am/pm] and I'm arriving at %store to pick up your order for delivery. I'll message you again when I'm headed your way!
+-Sam, your %app %role 🧔",
+Pickup,"Good %time_day, %cust_c, it's [hour/12]:[minute] [am/pm] and I'm arriving at %store to pick up your order for delivery. I'll message you again when I'm headed your way!
+-Sam, your %app %role 🧔",
+Pickup,"Good %time_day, %cust_d, it's [hour/12]:[minute] [am/pm] and I'm arriving at %store to pick up your order for delivery. I'll message you again when I'm headed your way!
+-Sam, your %app %role 🧔",
+Pickup,"Good %time_day, %cust_e, it's [hour/12]:[minute] [am/pm] and I'm arriving at %store to pick up your order for delivery. I'll message you again when I'm headed your way!
+-Sam, your %app %role 🧔",
+Problems,%store is sold out of item. I'll send some photos of potential replacements.,
+Problems,"I replaced ITEM with your preselected replacement item, ITEM, as %store is sold out of your first choice. Please let me know if you'd prefer something else instead.",
+Problems,"I replaced ITEM, which is sold out at %store, with ITEM. Please let me know if you'd prefer something else instead.",
+Problems,"There doesn't seem to be an appropriate replacement for ITEM, which %store is sold out of, and so I refunded this item. Please let me know if you'd like something else instead.",
+Problems,"I refunded ITEM as you requested, as %store is sold out. Please let me know if there's something else I can get for you instead.",
+td,[year/nf]-[month/n]-[day/n],
+sfi,I'm sorry for the inconvenience.,
+lmk,"%store is sold out of the [item] you requested, so I substituted [item]. Please let me know if you'd prefer something else or a refund instead.",
